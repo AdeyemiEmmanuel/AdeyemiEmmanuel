@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeyemiemmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="adeyemiemmanuel" /> </p>
 
-<p align="left"> <a href="https://twitter.com/just.mahnuel" target="blank"><img src="https://img.shields.io/twitter/follow/just.mahnuel?logo=twitter&style=for-the-badge" alt="just.mahnuel" /></a> </p>
+<p align="left"> <a href="https://twitter.com/justmahnuel" target="blank"><img src="https://img.shields.io/twitter/follow/justmahnuel?logo=twitter&style=for-the-badge" alt="justmahnuel" /></a> </p>
 
 - 🌱 I’m currently learning **Python and Web Development**
 
